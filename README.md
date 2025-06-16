@@ -1,4 +1,4 @@
-# Olá! Eu sou o Pedro Henrique 👋
+# Olá! Eu sou o Pedro Leal 👋
 
 🎓 Estudante de *Segurança da Informação* no Senac São Paulo  
 💻 Técnico em *Informática*  
