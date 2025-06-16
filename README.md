@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá! Eu sou o Pedro Henrique 👋
 
-<!--
-**pedroh-leal/pedroh-leal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de *Segurança da Informação* no Senac São Paulo  
+💻 Técnico em *Informática*  
+📍 Itapevi - SP | Brasil  
+📧 Contato: ph.leal.2005@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou apaixonado por tecnologia, redes e cibersegurança. Atualmente estou cursando Segurança da Informação e aprofundando meus conhecimentos em sistemas operacionais, redes, Python e ferramentas de segurança.
+
+Meu objetivo é aplicar tudo que estou aprendendo em projetos práticos, me desenvolver profissionalmente e contribuir com a comunidade de tecnologia.
+
+---
+
+## 🛠 Tecnologias e Ferramentas
+
+- 🔐 Segurança da Informação (conceitos iniciais)
+- 💻 Python (básico)
+- 🖥️ Linux e Windows
+- 🌐 Redes de computadores
+- 🧰 Manutenção de computadores
+- 📂 Git e GitHub
+
+---
+
+## 📘 Projetos em andamento
+
+Estou começando a publicar projetos simples em Python, automação e scripts voltados para segurança da informação. Fique à vontade para acompanhar meu progresso!
+
+---
+
+## 💡 Em breve
+
+- ✅ Repositórios com meus estudos de Python e Linux
+- ✅ Testes com máquinas virtuais e ferramentas de pentest (como Wireshark e Nmap)
+- ✅ Anotações e resumos de estudos
+
+---
+
+## 🤝 Vamos nos conectar!
+
+- [LinkedIn](https://www.linkedin.com/in/pedro-leal-52931a2b7)
